@@ -15,6 +15,11 @@ _____________________________________________
 Some data can be found at:
 
 The red current (aka La Groseille) used in many papers:
+(There is a link somewhere)
+
+LCLS data:
+(I need a repo)
+
 
 
 
