@@ -5,9 +5,12 @@ Author: Sebastien Berujon
 
 These are a collection of scripts that I developed and sometimes used for the processing of XST / XSVT / XSS / ... datas, these time from LCLS. 
 
+Official XPP288 // 2018.
+
 
 ___________________________________________________________________
-Files and folders:
+Files repositories:
+Preprocessed h5 format (weakest pulses discarded):
 
 
 
